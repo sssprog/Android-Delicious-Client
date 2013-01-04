@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Delicious</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_activity_main">Tags</string>
+    <string name="title_activity_all_posts">All posts</string>
+    <string name="title_activity_recent_posts">Recent</string>
+    <string name="title_activity_add_post">New Link</string>
+    <string name="title_activity_edit_post">Edit link</string>
+    
+    <string name="response_error_network_down">Network down</string>
+    <string name="response_error_standard">Error occured, try again</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="url">URL</string>
+    <string name="description">Description</string>
+    <string name="extended">Extended</string>
+    <string name="tags">Tags</string>
+    <string name="private_link">Private</string>
+    <string name="saving">Saving</string>
+
+</resources>
